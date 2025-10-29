@@ -1,4 +1,4 @@
-package DfromSOLID;
+package DfromSOLID.GoodExample;
 
 public class MySqlDatabase {
 }
